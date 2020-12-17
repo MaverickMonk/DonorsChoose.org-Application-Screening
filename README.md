@@ -1,1 +1,1 @@
-# DonorsChoose.org Application Screening | An end to end case study
+# DonorsChoose.org Application Screening
